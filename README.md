@@ -31,7 +31,7 @@ CS undergrad at **MANIT Bhopal**. I build ML + API systems that work beyond note
 - Alumni Head, Aenak (Nukkad Natak Society, MANIT) · PLAT MANIT
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupamaurya_03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupamaurya_03/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//www.linkedin.com/in/rupa-maurya-32a802290/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)]([https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/u/VFbi6p5Ci9/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)]([https://www.geeksforgeeks.org/user/YOUR_GFG](https://www.geeksforgeeks.org/profile/rupamauh5ex?tab=activity))
