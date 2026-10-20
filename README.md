@@ -32,10 +32,10 @@ CS undergrad at **MANIT Bhopal**. I build ML + API systems that work beyond note
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//www.linkedin.com/in/rupa-maurya-32a802290/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)]([https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/u/VFbi6p5Ci9/))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)]([https://www.geeksforgeeks.org/user/YOUR_GFG](https://www.geeksforgeeks.org/profile/rupamauh5ex?tab=activity))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupamaurya334@gmail.com)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
