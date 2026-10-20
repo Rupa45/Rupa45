@@ -75,8 +75,7 @@ CS undergrad at **MANIT Bhopal**. I build ML + API systems that work beyond note
 - Alumni Head, Aenak (Nukkad Natak Society, MANIT) · PLAT MANIT
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Rupa45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupa45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
